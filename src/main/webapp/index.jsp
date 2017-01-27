@@ -1,0 +1,1 @@
+Test 1 2 3 - current date is <%= new java.util.Date() %>
